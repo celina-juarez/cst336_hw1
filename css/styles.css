@@ -1,0 +1,101 @@
+#first {
+    background-image: url("cst-336/homework/img/background.png");
+}
+#title{
+        text-shadow: 3px 2px white !important;
+}
+
+header, main, nav, footer {
+    text-align: center;
+}
+
+nav a {
+    padding:5px;
+    padding-bottom: 4px;
+    font-size: 1.0em;
+    text-decoration: none;
+    color: black;
+    border-style: ridge;
+}
+nav a:hover {
+    border-bottom: 2px black solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+footer {
+    font-size:1em;
+    color:black;
+    float: left;
+}
+
+
+footer{
+    clear: both;
+}
+
+h1{
+    font-family: 'Arvo', serif;
+    font-size: 4em;
+    margin-bottom: 0px;
+}
+#pruby{
+    column-count: 2;
+  column-rule-style: dashed;
+}
+#ppython{
+    column-count: 3;
+  column-rule-style: dashed;
+}
+#pcplusplus{
+    column-count: 3;
+  column-rule-style: dashed;
+}
+
+#cplusplus, #cinfo {
+    float: left;
+    width:45%;
+
+}
+#cplusplus img{
+    width:50%;
+}
+
+#python, #pinfo {
+    float: left;
+    width:45%;
+
+}
+#python img{
+    width:200%;
+}
+
+#ruby, #rinfo {
+    float: left;
+    width:45%;
+
+}
+#ruby img{
+    width:45%;
+}
+
+#languages, #welcomeText {
+    float: left;
+    width:45%;
+
+}
+#welcomeText{
+    border-style: ridge;
+}
+#languages img{
+    width:100%;
+}
+#rtitle{
+    text-shadow: 3px 2px white;
+}
+#ptitle{
+    text-shadow: 3px 2px white;
+}
+#ctitle{
+    text-shadow: 3px 2px white;
+}
