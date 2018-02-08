@@ -1,5 +1,6 @@
 #first {
-    background-image: url("cst-336/homework/img/background.png");
+    
+    background: linear-gradient(blue, white);
 }
 
 
@@ -84,9 +85,11 @@ h1{
 }
 #welcomeText{
     border-style: ridge;
+    box-shadow: 10px 10px grey;
 }
 #languages img{
     width:100%;
+    border-radius: 8px;
 }
 #rtitle{
     text-shadow: 3px 2px white;
