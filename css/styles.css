@@ -1,9 +1,7 @@
 #first {
     background-image: url("cst-336/homework/img/background.png");
 }
-#title{
-        text-shadow: 3px 2px white !important;
-}
+
 
 header, main, nav, footer {
     text-align: center;

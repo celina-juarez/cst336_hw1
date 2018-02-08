@@ -21,7 +21,7 @@
         </header>
         
         <nav>
-            <hr width = "50%" />
+            
             <a href = "index.html">Home</a>
             <a href = "about-cplusplus.html">C++</a>
             <a href = "about-python.html">Python</a>
